@@ -1,6 +1,4 @@
 # eml_Viewer
-Simple app to read eml files.
-
 A simple app to read and analyze .eml files and export them to a .txt file if needed.
 
 ![image](https://github.com/user-attachments/assets/72535aff-2e8e-4568-8f2a-18a197ec5fc6)
